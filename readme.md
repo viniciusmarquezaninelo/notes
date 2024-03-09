@@ -37,6 +37,29 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [SpeechRecognition API]()
 
 
+<h2>Create note</h2>
+  <p align="center">
+   <img width="850" height="500" src="https://github.com/viniciusmarquezaninelo/notes/blob/main/.github/Create-note.gif" alt="Create note" />
+  </p>
+
+  <h2>Search</h2>
+  <p align="center">
+   <img width="850" height="500" src="https://github.com/viniciusmarquezaninelo/notes/blob/main/.github/search.gif" alt="search" />
+  </p>
+
+  <h2>Voice detection</h2>
+  <p align="center">
+   <img width="850" height="500" src="https://github.com/viniciusmarquezaninelo/notes/blob/main/.github/voice-detection.gif" alt="Voice detection" />
+  </p>
+
+  <h2>mobile</h2>
+  <p align="center">
+   <img width="850" height="500" src="https://github.com/viniciusmarquezaninelo/notes/blob/main/.github/mobile.gif" alt="mobile" />
+  </p>
+
+  
+
+
 ## Authors
 
   - **Vinícius Zaninelo** - [Linkedin](https://www.linkedin.com/in/vin%C3%ADciuszaninelo/) <br />

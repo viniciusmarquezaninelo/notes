@@ -3,16 +3,6 @@
 <h1 align="center">Notes</h1>
 <p align="center">DESCRIÇÃO</p>
 
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind]()
-- [SpeechRecognition API]()
-
-
 <h2>Create note</h2>
   <p align="center">
    <img width="850" height="500" src="https://github.com/viniciusmarquezaninelo/notes/blob/main/.github/Create-note.gif" alt="Create note" />
@@ -55,7 +45,14 @@ $ npm run dev
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:5173>
 ```
+### 🛠 Tecnologias
 
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind]()
+- [SpeechRecognition API]()
 
 ## Authors
 

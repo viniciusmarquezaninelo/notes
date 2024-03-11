@@ -51,8 +51,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind]()
-- [SpeechRecognition API]()
+- [Tailwind](https://tailwindcss.com/)
+- [SpeechRecognition API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
 
 ## Authors
 

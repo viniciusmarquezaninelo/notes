@@ -1,7 +1,7 @@
 ![Cover](./.github/cover.png)
 
 <h1 align="center">Notes</h1>
-<p align="center">DESCRIÇÃO</p>
+<p align="center">Em notes você poderá controlar sua rotina, através de notas.Essas notas podem ser criadas utilizando a sua voz.</p>
 
 <h2>Create note</h2>
   <p align="center">
